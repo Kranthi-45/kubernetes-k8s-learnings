@@ -1,1 +1,8 @@
+install kubectl: https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+
+install Minikube : https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/
+
+install Docker Desktop: https://docs.docker.com/desktop/windows/install/
+
+Download VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
