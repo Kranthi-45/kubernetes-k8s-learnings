@@ -3,9 +3,9 @@ install kubectl: https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 install Minikube : https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/
 or
 https://github.com/kubernetes/minikube/releases 
- download  minikube-windows-amd64.exe  & renname to  minikube
+ download  minikube-windows-amd64.exe  & rename exe to  minikube
 
-install Docker Desktop: https://docs.docker.com/desktop/windows/install/
+install Docker Desktop: https://docs.docker.com/desktop/windows/install/  (I can use docker as driver to start minikube)
 
 Download VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
